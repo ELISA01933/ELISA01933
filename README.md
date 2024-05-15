@@ -1,6 +1,6 @@
 ### HOLA! Soy Elisa. 👋
 
--Imagen pendiente-
+![Code](LinKedIn.png)
 
 Hola, soy Elisa Lopez 😄, actualmente estudiante de licenciatura en Economia ✨ y hoy te hablare un poco mas sobre mi: 
 
@@ -15,5 +15,5 @@ Hola, soy Elisa Lopez 😄, actualmente estudiante de licenciatura en Economia �
      -    
 - ⚡ He tomado cursos y diplomados de: 
      - Fundamentos de Excel para Negocios en [Coursera](https://coursera.org/share/7647cc836e8bde33dc2ac3c265d74fbe)
-     - [Excel Basico]( )
+     - [Excel Basico](https://github.com/ELISA01933/ELISA01933/blob/main/mi_profile/ELISA%20L%C3%93PEZ%20Z%C3%81RATE%20(1).pdf)
      - Diplomado en Educacion Financiera por la [CONDUSEF](https://inscripcion-diplomado.condusef.gob.mx/verifica_certificado.php?ida=213634&idg=44) 
