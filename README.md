@@ -1,6 +1,6 @@
 ### HOLA! Soy Elisa. 👋
 
-![Demo](mis_profile/E.PNG) 
+![Header](mi_profile/E.PNG) 
 
 Hola, soy Elisa Lopez 😄, actualmente estudiante de licenciatura en Economia ✨ y hoy te hablare un poco mas sobre mi: 
 
