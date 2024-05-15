@@ -16,4 +16,4 @@ Hola, soy Elisa Lopez 😄, actualmente estudiante de licenciatura en Economia �
 - ⚡ He tomado cursos y diplomados de: 
      - Fundamentos de Excel para Negocios en [Coursera](https://coursera.org/share/7647cc836e8bde33dc2ac3c265d74fbe)
      - [Excel Basico]( )
-     - Diplomado en Educacion Financiera por la [CONDUSEF] (https://inscripcion-diplomado.condusef.gob.mx/verifica_certificado.php?ida=213634&idg=44) 
+     - Diplomado en Educacion Financiera por la [CONDUSEF](https://inscripcion-diplomado.condusef.gob.mx/verifica_certificado.php?ida=213634&idg=44) 
