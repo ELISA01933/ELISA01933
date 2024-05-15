@@ -23,4 +23,4 @@ Hola, soy Elisa Lopez ðŸ˜„, actualmente estudiante de licenciatura en Economia â
 
 
 -Contacto 
-Gmail: [![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:svg.elisa_lopez10@comunidad.unam.mx)&nbsp
+Gmail: [![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:svg.elisa_lopez10@comunidad.unam.mx)
