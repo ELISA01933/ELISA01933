@@ -1,6 +1,6 @@
 ### HOLA! Soy Elisa. 👋
 
-![head](E.PNG)
+![head](/E.PNG)
 
 Hola, soy Elisa Lopez 😄, actualmente estudiante de licenciatura en Economia ✨ y hoy te hablare un poco mas sobre mi: 
 
