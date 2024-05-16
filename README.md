@@ -26,7 +26,8 @@ Hola, soy Elisa Lopez 😄, actualmente estudiante de licenciatura en Economia �
    - Temas macroeconomicos.
    - Contabilidad Social.
    - Analisis e Interpretacion de Estados Financieros.
-   - Contabilidad General y Costos. 
+   - Contabilidad General y Costos.
+   - Manejo de indices, correlaciones, entre otros.
       
 - 😄 **Un poco mas sobre mi...**
   
