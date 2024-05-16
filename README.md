@@ -1,4 +1,4 @@
-### HOLA! Soy Elisa. 👋
+### HOLA!👋
 
 ![Head](mi_profile/E.png) 
 
